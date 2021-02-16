@@ -1,0 +1,3 @@
+[submodule "libs/GuiCode"]
+	path = libs/GuiCode
+	url = https://github.com/KaixoCode/GuiCode.git
